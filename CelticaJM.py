@@ -1,5 +1,5 @@
 # --------------------------------------------------
-# Name: Jessica Malik   
+# Name: Jessica  
 # Program: CelticaJM.py
 # --------------------------------------------------
 # Program purpose: part 2 of the Celtica Game 
@@ -66,7 +66,7 @@ def pointdict():
     return pointdict
 
 
-# Purpose:          helper function to draw the background rectangles that are darker versions of the oclors they house
+# Purpose:          helper function to draw the background rectangles that are darker versions of the colors they house
 # Syntax:           draw_rectangle(width/4, width/4, "purple", window)
 # Parameters:       x: the x-coordinate of the anchor point
 #                   y: the y-coordinate of the anchor point
